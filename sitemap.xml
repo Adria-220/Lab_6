@@ -12,6 +12,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/shorts-weather/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -28,6 +33,11 @@
     <url>
         <loc>
             http://localhost:8000/author/adriap/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/znoor/
         </loc>
     </url>
 </urlset>
