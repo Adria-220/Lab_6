@@ -1,0 +1,13 @@
+/*
+Theme Name:     Lab6
+Description:    
+Author:         adriap
+Template:       twentynineteen
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+#content{
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
